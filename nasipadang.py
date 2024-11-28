@@ -1,3 +1,6 @@
+#saya suka nasi padang
+#152022192 Muhammad Yazid
+
 data_panen = {
     'lokasi': {
         'lokasi1': {
